@@ -6,6 +6,6 @@ To run it as I did in my terminal (macOS 26.6), I compiled it using the followin
 
 gcc -o executable practical_3.c
 
-Then ran the executable:
+Then run the executable:
 
 ./executable
