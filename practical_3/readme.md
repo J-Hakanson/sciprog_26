@@ -1,4 +1,4 @@
-This practical uses a loop and the trapezoidal rule to approximate the area under the curve for the interval 0 to pi/3 for tan(x). Then compares it to the actual values of log(2).
+This practical uses a loop and the trapezoidal rule to approximate the area under the curve for the interval 0 to pi/3 for tan(x). The code then compares it to the actual values of log(2).
 
 The program prints the calculated area, the values of log(2), then prints a brief comparison of the two.
 
